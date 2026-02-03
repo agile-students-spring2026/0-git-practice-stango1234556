@@ -12,3 +12,6 @@ What I found most useful is how the article reframes the tradeoff between “Don
 
 ### Comment by Leia Yun
 I was intrigued by the title and wanted to understand what it meant. I usually think good code is something that can grow and be reused, so this idea felt a little strange at first. After reading it, I started thinking about how much my projects change over time. It made me realize that keeping things simple now can make it easier to deal with changes later, instead of trying to design everything perfectly from the start.
+
+### Comment by Nick Michael
+I found this article interesting because it challenges the common belief that code should be designed to be reusable and flexible from the start. The article argues that it's better to write code that is easy to delete when it stops being useful, rather than trying to design everything perfectly from the start. This mindset can help make it easier to deal with changes later, instead of trying to design everything perfectly from the start.
